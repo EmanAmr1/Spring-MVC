@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="webmvc-1.0.1-javadoc">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../Downloads/webmvc-1.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

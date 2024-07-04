@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-web-5.1.0.RELEASE-javadoc">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../Downloads/spring-web-5.1.0.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
